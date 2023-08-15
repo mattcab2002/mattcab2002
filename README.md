@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Matthew Cabral</h1>
 <h3 align="center">A curious full-stack developer from Canada</h3>
 
+<img src="https://img.freepik.com/free-vector/matrix-style-binary-code-digital-falling-numbers-blue-background_1017-37387.jpg" style="width: 100%; height: 400px;" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matthew-a-cabral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew-a-cabral" height="30" width="40" /></a>
