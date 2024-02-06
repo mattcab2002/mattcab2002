@@ -12,7 +12,10 @@ A full-stack developer who loves cloud ☁️.
 - ❄️ Software Developer based in Montreal, QC, Canada
 - 🏫 Full-time Software Engineering Coop Student @ McGill University
 - 💻 Previous at RBC, Ericsson, Loans Canada.
-- 🌐 Find out more about me on [my-website](https://matthew-cabral.com)
+- 🌐 Learn more about me on [my-website](https://matthew-cabral.com) or reach out to me:
+
+[![My Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-a-cabral/) [![My Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:matthew.cabral@mail.mcgill.ca)
+
 
 
 <p><img align="right" src="https://github-readme-stats-mattcab2002.vercel.app/api/top-langs?username=mattcab2002&show_icons=true&layout=compact&theme=github_dark" alt="mattcab2002" /></p>
