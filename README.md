@@ -11,7 +11,7 @@ A full-stack developer who loves cloud ☁️.
 - 🧑🏻‍💻 Currently working @Ericsson as a Solution Developer in Cloud RAN
 - ❄️ Software Developer based in Montreal, QC, Canada
 - 🏫 Full-time Software Engineering Coop Student @ McGill University
-- 💻 Previous at RBC, Ericsson, Loans Canada.
+- 💻 Previously at RBC, Ericsson, Loans Canada.
 - 🌐 Learn more about me on [my-website](https://matthew-cabral.com) or reach out to me:
 
 [![My Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-a-cabral/) [![My Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:matthew.cabral@mail.mcgill.ca)
